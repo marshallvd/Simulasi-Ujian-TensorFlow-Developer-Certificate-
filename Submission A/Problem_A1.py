@@ -12,6 +12,9 @@
 # Please be aware that this is a linear model.
 # We will test your model with values in a range as defined in the array to make sure your model is linear.
 #
+# Made Marshall Vira Deva
+# Udayana University
+# 
 # Desired loss (MSE) < 1e-4
 # =================================================================================
 
