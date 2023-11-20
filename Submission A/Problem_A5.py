@@ -8,6 +8,9 @@
 #
 # The dataset used in this problem is downloaded from kaggle.com/robervalt/sunspots
 #
+# Made Marshall Vira Deva
+# Udayana University
+# 
 # Desired MAE < 0.15 on the normalized dataset.
 # ========================================================================================
 
