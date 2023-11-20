@@ -8,6 +8,9 @@
 #
 # The dataset used in this problem is created by Laurence Moroney (laurencemoroney.com).
 #
+# Made Marshall Vira Deva
+# Udayana University
+# 
 # Desired accuracy and validation_accuracy > 83%
 # ======================================================================================
 
