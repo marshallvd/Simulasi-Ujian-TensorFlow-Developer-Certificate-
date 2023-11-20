@@ -9,6 +9,9 @@
 # The horse-or-human dataset used in this problem is created by Laurence Moroney (laurencemoroney.com).
 # Inception_v3, pre-trained model used in this problem is developed by Google.
 #
+# Made Marshall Vira Deva
+# Udayana University
+# 
 # Desired accuracy and validation_accuracy > 97%.
 # =======================================================================================================
 
