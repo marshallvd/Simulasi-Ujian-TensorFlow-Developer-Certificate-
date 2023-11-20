@@ -7,6 +7,9 @@
 #
 # The dataset used in this problem is originally published in http://ai.stanford.edu/~amaas/data/sentiment/
 #
+# Made Marshall Vira Deva
+# Udayana University
+# 
 # Desired accuracy and validation_accuracy > 83%
 # ===========================================================================================================
 
